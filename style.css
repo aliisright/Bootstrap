@@ -185,3 +185,23 @@ fieldset {
 	margin-right: 0.5em;
 }
 /* Amine & Addal END */
+
+
+.rating a {
+   float: right;
+   color: lightblue;
+   text-decoration: none;
+   font-size: 3em;
+   transition: color .4s;
+}
+.rating a:hover,
+.rating a:focus,
+.rating a:hover ~ a,
+.rating a:focus ~ a {
+   color: #008488;
+   cursor: pointer;
+}
+
+.rating {
+font-size: 0.3em;
+}
