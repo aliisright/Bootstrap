@@ -1,3 +1,15 @@
+@media screen and (max-width: 780px) {
+	header {
+		background-color: #FF5862;
+	}
+	.titre {
+		color: darkgrey;
+	}
+	.phrase {
+		color: white;
+	}
+}
+
 header img{
 width:90px;
 }
@@ -15,7 +27,7 @@ color:#FF5862;
 margin:0;
 padding:0;
 font-family: 'Source Sans Pro', sans-serif;
-font-size: 4em;
+font-size: 3em;
 }
 
 .phrase{
@@ -23,7 +35,7 @@ margin:0;
 padding:0;
 font-family: 'Source Sans Pro', sans-serif;
 font-weight: 300;
-font-size: 4em;
+font-size: 3em;
 }
 
 .bouton {
@@ -39,7 +51,7 @@ font-size: 4em;
 	font-size: 20px;
 	color:grey;
 }
-.titre {
+.titre-form {
 	margin-top: 10px;
 }
 .header{
@@ -51,6 +63,7 @@ font-size: 4em;
 	border-right: 1px solid lightgrey;
 	margin:0px;
 }
+
 
 /*Ali et Julie*/
 .annonce p {
