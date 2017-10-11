@@ -1,3 +1,3 @@
 # Bootstrap
 
-Pour isualiser le projet >  https://aliisright.github.io/Bootstrap/ 
+Pour visualiser le projet >  https://aliisright.github.io/Bootstrap/ 
